@@ -1,0 +1,1 @@
+#define rustg_cnoise_generate(precentage, smoothing_iterations) call(RUST_G, "cnoise_generate")(precentage, smoothing_iterations)
